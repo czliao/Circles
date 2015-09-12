@@ -5,3 +5,5 @@ appengine-generated/
 
 node_modules//data
 mongod-start
+/data
+mongod-start

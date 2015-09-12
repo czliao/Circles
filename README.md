@@ -1,2 +1,2 @@
 # Circles
-A management tool for people with multiple roles (everyone)
+A scale-free goal tracking tool.
