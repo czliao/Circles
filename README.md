@@ -1,3 +1,5 @@
 # Circles
-Goal: A scale-free goal tracking tool.
-Status: Stalled.
+
+*Goal*: A scale-free goal tracking tool.
+
+*Status*: Stalled.
